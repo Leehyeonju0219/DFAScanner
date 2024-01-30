@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ea211f-86a8-4751-a278-f827b16bf02e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="83ea211f-86a8-4751-a278-f827b16bf02e" name="Changes" comment="[ADD] Parser 구현 완료">
+      <change afterPath="$PROJECT_DIR$/src/DFAMinimizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFAMinimizing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/laila/IdeaProjects/withing_back",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +55,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699455668870</updated>
-      <workItem from="1699455670092" duration="4362000" />
+      <workItem from="1699455670092" duration="6289000" />
+      <workItem from="1699507931454" duration="2268000" />
+      <workItem from="1699511673282" duration="5195000" />
+      <workItem from="1699532366342" duration="90000" />
+      <workItem from="1699536233876" duration="6301000" />
+      <workItem from="1699547459541" duration="596000" />
+      <workItem from="1699579442890" duration="19000" />
+      <workItem from="1699957983634" duration="695000" />
+      <workItem from="1700050389107" duration="20186000" />
+      <workItem from="1700112931847" duration="4617000" />
+      <workItem from="1700132393298" duration="10156000" />
+      <workItem from="1700146031615" duration="377000" />
+      <workItem from="1700230093290" duration="9000" />
+      <workItem from="1701443710676" duration="3141000" />
+      <workItem from="1701701249910" duration="6000" />
+      <workItem from="1702657881689" duration="6023000" />
+      <workItem from="1702894220876" duration="7958000" />
+      <workItem from="1704165334734" duration="48000" />
     </task>
+    <task id="LOCAL-00001" summary="[UPDATE] Scanner 구현 완료">
+      <created>1699460483035</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699460483035</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[ADD] Parser 구현 완료">
+      <created>1702901443805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702901443805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[UPDATE] Scanner 구현 완료" />
+    <MESSAGE value="[ADD] Parser 구현 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Parser 구현 완료" />
   </component>
 </project>
