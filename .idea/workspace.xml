@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ea211f-86a8-4751-a278-f827b16bf02e" name="Changes" comment="[ADD] Parser 구현 완료">
-      <change afterPath="$PROJECT_DIR$/src/DFAMinimizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFAMinimizing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83ea211f-86a8-4751-a278-f827b16bf02e" name="Changes" comment="[ADD] Parser 구현 완료" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/laila/IdeaProjects/withing_back",
+    "last_opened_file_path": "C:/Users/laila/IdeaProjects/miniC",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +68,7 @@
       <workItem from="1702657881689" duration="6023000" />
       <workItem from="1702894220876" duration="7958000" />
       <workItem from="1704165334734" duration="48000" />
+      <workItem from="1706623081187" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE] Scanner 구현 완료">
       <created>1699460483035</created>
@@ -88,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702901443805</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ADD] Parser 구현 완료">
+      <created>1706623115869</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706623115870</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
